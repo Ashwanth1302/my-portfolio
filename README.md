@@ -19,7 +19,7 @@ Deployment
 
 Describe how your portfolio is deployed. For example:
 
-My portfolio is deployed using GitHub Pages. You can visit it here  https://achu1317.github.io/my-portfolio/.
+My portfolio is deployed using GitHub Pages. You can visit it here  https://ashwanth1302.github.io/my-portfolio/
 
 If you have deployed your portfolio on a different platform or using a different method, provide the appropriate details and links.
 
